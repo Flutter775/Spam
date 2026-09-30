@@ -22,7 +22,7 @@ Professional OTP spammer tool with multi-API support.
 pkg update && pkg upgrade
 termux-setup-storage
 pkg install python git -y
-git clone https://github.com/Flutter775/SpamOtp.git
+git clone https://github.com/Flutter775/Spam.git
 cd SpamOtp
 pip install -r requirements.txt
 python main.py
@@ -33,7 +33,7 @@ python main.py
 ```bash
 sudo apt update
 sudo apt install python3 python3-pip git -y
-git clone https://github.com/Flutter775/SpamOtp.git
+git clone https://github.com/Flutter775/Spam.git
 cd SpamOtp
 pip3 install -r requirements.txt
 python3 main.py
