@@ -23,7 +23,7 @@ pkg update && pkg upgrade
 termux-setup-storage
 pkg install python git -y
 git clone https://github.com/Flutter775/Spam.git
-cd SpamOtp
+cd Spam
 pip install -r requirements.txt
 python main.py
 ```
@@ -34,7 +34,7 @@ python main.py
 sudo apt update
 sudo apt install python3 python3-pip git -y
 git clone https://github.com/Flutter775/Spam.git
-cd SpamOtp
+cd Spam
 pip3 install -r requirements.txt
 python3 main.py
 ```
